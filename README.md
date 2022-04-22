@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Arnie
 I am a young boy there started coding for 1 year ago. I code FiveM scripts and sometimes other things. 
 
-My [discord](https://discord.io/arniesresources)
+My [discord](https://discord.gg/K7Ez7vYxk2)
 
 In my discord i sells some FiveM scripts. 
 
