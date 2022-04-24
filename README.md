@@ -7,7 +7,6 @@ In my discord i sells some FiveM scripts.
 
 - 🔭 I’m currently working on FiveM Scripts 
 - 🌱 I’m currently learning CSS, HTML and js 
-- 🤔 I’m looking for help with CSS and HTML 
 - ⚡ Fun fact: I am from iceland 
 
 
